@@ -1,3 +1,4 @@
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hikesargsyan&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hikesargsyan&theme=transparent&hide_border=false)<br/>
+
 
